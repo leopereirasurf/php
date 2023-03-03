@@ -9,7 +9,7 @@
 <body>
     <h1>
 <?php 
-echo 'Olá mundo!...'
+echo " \u{1F30E} Olá mundo!..."
 ?>
 <p>Vanmos tenter se livar da Maldição</p>
     </h1>
